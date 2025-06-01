@@ -1,0 +1,218 @@
+# version: '3.8'
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    healthcheck:
+      test: ["CMD", "true"]
+      interval: 5s
+      timeout: 10s
+      retries: 20
+    networks:
+      - network_app 
+
+  kafka:
+    image: confluentinc/cp-kafka:latest
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,PLAINTEXT_HOST://0.0.0.0:29092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"
+    healthcheck:
+      test: ["CMD-SHELL", "kafka-topics --bootstrap-server kafka:9092 --list"]
+      interval: 5s
+      timeout: 10s
+      retries: 30
+    networks:
+      - network_app
+
+
+
+  kafka-init:
+    image: confluentinc/cp-kafka:latest
+    depends_on:
+      kafka:
+        condition: service_healthy
+    entrypoint: /bin/sh
+    command: -c "/scripts/create_topic.sh" 
+    volumes:
+    - .:/scripts
+    networks:
+      - network_app 
+
+  otherservice_service:
+    container_name: dotnet_backend
+    build:
+      context: ./back_end/otherServices
+      dockerfile: dockerfile
+    ports:
+      - "44357:8080"  # Expose .NET app (default for Kestrel is 80 inside container)
+    networks:
+      - network_app 
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sql_server,1433;Database=otherServices;User=sa;Password=YourStrong!Password123;
+      - Kafka__BootstrapServers:kafka:9092
+
+  otherservice_sql:
+    container_name: sql_server
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "YourStrong!Password123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    networks:
+      - network_app
+    volumes:
+      - otherServices_data:/var/opt/mssql
+
+
+
+  message_app_service:
+    container_name: dotnet_backend2
+    build:
+      context: ./MessageApp/Message_app/
+      dockerfile: dockerfile
+    ports:
+      - "7119:8080"
+    depends_on:
+      kafka:
+        condition: service_healthy
+      kafka-init: # to make sure topics created first
+        condition: service_completed_successfully
+
+    networks:
+      - network_app
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sql_server2,1433;Database=message_service;User=sa;Password=YourStrong!Password123"
+      KAFKA_BOOTSTRAP_SERVERS: "kafka:9092"
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ASPNETCORE_URLS: "http://+:8080"
+      # Timeout settings
+      KAFKA_SOCKET_TIMEOUT_MS: "30000"
+      KAFKA_SESSION_TIMEOUT_MS: "30000"
+
+
+  message_app_sql:
+    container_name: sql_server2
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "YourStrong!Password123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1434:1433"
+    networks:
+      - network_app
+    volumes:
+      - messageApp_data:/var/opt/mssql
+
+
+# # # ------------------------------------ Email service---------------------
+
+  email_service:
+    container_name: dotnet_backend3
+    build:
+      context: ./EmailService/Message_app/
+      dockerfile: dockerfile
+    ports:
+      - "5165:8080"
+    depends_on:
+      kafka:
+        condition: service_healthy
+      kafka-init: # to make sure topics created first
+        condition: service_completed_successfully
+    
+    networks:
+      - network_app
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sql_server2;Database=email_service;User=sa;Password=YourStrong!Password123;"
+      KAFKA_BOOTSTRAP_SERVERS: "kafka:9092"
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ASPNETCORE_URLS: "http://+:8080"
+      # Timeout settings
+      KAFKA_SOCKET_TIMEOUT_MS: "30000"
+      KAFKA_SESSION_TIMEOUT_MS: "30000"
+
+
+  # email_app_sql:
+  #   container_name: sql_server3
+  #   image: mcr.microsoft.com/mssql/server:2022-latest
+  #   environment:
+  #     SA_PASSWORD: "YourStrong!Password123"
+  #     ACCEPT_EULA: "Y"
+  #   ports:
+  #     - "1435:1433"
+  #   networks:
+  #     - network_app
+  #   volumes:
+  #     - EmailApp_data:/var/opt/mssql
+
+
+
+
+
+
+
+# # #             # this service for making migration folder
+# # #   # ef:
+# # #   #   image: mcr.microsoft.com/dotnet/sdk:8.0   # Has SDK & EF tools
+# # #   #   volumes:
+# # #   #     - ./back_end/otherServices/otherServices:/app         #bind mount in my build context to container to make migration
+# # #   #   working_dir: /app                         # Starts you in the project directory
+# # #   #   entrypoint: ["/bin/bash"]                 # Opens a bash shell for interactive use
+# # #                                               # dotnet ef needs >>>.csproj
+# # #     # ------ commands to make migrations folder
+# # #     #1- dotnet tool install --global dotnet-ef
+# # #     #2- export PATH="$PATH:/root/.dotnet/tools"
+# # #     #3- dotnet ef migrations add InitialCreate >>making migration
+
+
+
+
+  frontend_service:
+    container_name: react_frontend
+    build:
+      context: .
+      dockerfile: front_end/dockerfile
+    ports:
+      - "3000:80"
+    networks:
+      - network_app
+
+
+networks:
+  network_app:
+    driver: bridge 
+
+volumes:
+  otherServices_data:
+  messageApp_data:
+  EmailApp_data:
+
+
+#     consumer
+  #  docker compose exec kafka kafka-console-consumer --bootstrap-server kafka:9092 --topic receivedMessages --from-beginning
+  #  docker compose exec kafka kafka-console-consumer --bootstrap-server kafka:9092 --topic WelcomeEmail --from-beginning
+
+      # create topic
+  # docker compose exec kafka kafka-topics --bootstrap-server kafka:9092 \
+  # --create --topic receivedMessages \
+  # --partitions 1 --replication-factor 1
+
+  #  list topics
+
+  # docker compose exec kafka kafka-topics --bootstrap-server kafka:9092 --list
+
+  #create topics
+  
+ 
+  

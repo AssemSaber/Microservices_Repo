@@ -1,0 +1,1035 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\emailkafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\emailkafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\imessageservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\imessageservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\ilandlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\ilandlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\services\\landlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\landlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\savedpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\savedpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\proposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\proposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\iproposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\iproposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\isavedpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\isavedpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\hubs\\signalr hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\hubs\\signalr hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\new text document.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\new text document.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\appdbcontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\appdbcontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\proposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\proposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\proposaleditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\proposaleditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\migrations\\20250423230826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\migrations\\20250423230826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\savedpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\savedpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\submitproposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\submitproposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\userdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\userdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|c:\\users\\hp\\documents\\github\\sa\\back_end\\otherservices\\otherservices\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailKafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\EmailKafkaProducerService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\EmailKafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\EmailKafkaProducerService.cs",
+              "RelativeToolTip": "otherServices\\Services\\EmailKafkaProducerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:56:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\AuthService.cs",
+              "RelativeToolTip": "otherServices\\Services\\AuthService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwHwAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:41:49.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\AdminService.cs",
+              "RelativeToolTip": "otherServices\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:55:46.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Message.cs",
+              "RelativeToolTip": "otherServices\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:45:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Comment.cs",
+              "RelativeToolTip": "otherServices\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:45:28.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "otherServices\\Services\\KafkaProducerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:50:11.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\MessageService.cs",
+              "RelativeToolTip": "otherServices\\Services\\MessageService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:58:38.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Program.cs",
+              "RelativeDocumentMoniker": "otherServices\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Program.cs",
+              "RelativeToolTip": "otherServices\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwv2gAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:42:44.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\CommentService.cs",
+              "RelativeToolTip": "otherServices\\Services\\CommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:39:57.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageService1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IMessageService1.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IMessageService1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IMessageService1.cs",
+              "RelativeToolTip": "otherServices\\Services\\IMessageService1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:58:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IAdminService.cs",
+              "RelativeToolTip": "otherServices\\Services\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:42:19.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IAuthService.cs",
+              "RelativeToolTip": "otherServices\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:39:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\ICommentService.cs",
+              "RelativeToolTip": "otherServices\\Services\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:46:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\IJwtService.cs",
+              "RelativeToolTip": "otherServices\\Services\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:38:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILandlordService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\ILandlordService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\ILandlordService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\ILandlordService.cs",
+              "RelativeToolTip": "otherServices\\Services\\ILandlordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:20:08.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITenantService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\ITenantService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\ITenantService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\ITenantService.cs",
+              "RelativeToolTip": "otherServices\\Services\\ITenantService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:47:33.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\JwtService.cs",
+              "RelativeToolTip": "otherServices\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:37:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\TenantService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\TenantService.cs",
+              "RelativeToolTip": "otherServices\\Services\\TenantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:38:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LandlordService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\LandlordService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\LandlordService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Services\\LandlordService.cs",
+              "RelativeToolTip": "otherServices\\Services\\LandlordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:20:11.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:40:20.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:42:46.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:43:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:50:30.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SavedPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\SavedPostRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\SavedPostRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\SavedPostRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\SavedPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:23:30.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProposalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\ProposalRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\ProposalRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\ProposalRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\ProposalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:23:46.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\MessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:23:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:24:09.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProposalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IProposalRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\IProposalRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IProposalRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\IProposalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:22:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:22:58.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:49:03.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISavedPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\ISavedPostRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\ISavedPostRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\ISavedPostRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\ISavedPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:22:36.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:37:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "otherServices\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "otherServices\\Repositories\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:21:34.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:55:53.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SignalR Hub.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Hubs\\SignalR Hub.cs",
+              "RelativeDocumentMoniker": "otherServices\\Hubs\\SignalR Hub.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Hubs\\SignalR Hub.cs",
+              "RelativeToolTip": "otherServices\\Hubs\\SignalR Hub.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAHQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:50:41.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\User.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\User.cs",
+              "RelativeToolTip": "otherServices\\Models\\User.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:51:56.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Post.cs",
+              "RelativeToolTip": "otherServices\\Models\\Post.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:29:58.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:46:24.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LandlordController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\LandlordController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\LandlordController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\LandlordController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\LandlordController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwJcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:19:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "otherServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "otherServices\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T15:53:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "New Text Document.txt",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\New Text Document.txt",
+              "RelativeDocumentMoniker": "otherServices\\New Text Document.txt",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\New Text Document.txt",
+              "RelativeToolTip": "otherServices\\New Text Document.txt",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T23:28:10.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProposalDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\ProposalDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\ProposalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:52:00.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContext2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\AppDbContext2.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\AppDbContext2.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\AppDbContext2.cs",
+              "RelativeToolTip": "otherServices\\Models\\AppDbContext2.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvx0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:47:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProposalEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:00:26.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Proposal.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Proposal.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Proposal.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\Proposal.cs",
+              "RelativeToolTip": "otherServices\\Models\\Proposal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:36:38.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MessageDTo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:46:09.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\TenantController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:05:15.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\appsettings.json",
+              "RelativeDocumentMoniker": "otherServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\appsettings.json",
+              "RelativeToolTip": "otherServices\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T00:40:59.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:49:57.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250423230826_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "RelativeDocumentMoniker": "otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "RelativeToolTip": "otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:08:26.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:30.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:44:58.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SavedPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:06:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CommentDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CommentDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:40.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdatePostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:46:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PostDTo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\PostDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\PostDTo.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\PostDTo.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\PostDTo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:41:35.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreatePostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:20:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserDataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:40:24.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:37:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SubmitProposalDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:36:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T01:13:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:28:01.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SA\\back_end\\otherServices\\otherServices\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:36:35.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

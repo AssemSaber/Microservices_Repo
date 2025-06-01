@@ -1,0 +1,18 @@
+# Node modules (reinstalled in image)
+node_modules
+npm-debug.log
+
+# Local env files
+.env
+.env.local
+
+# Git files
+.git
+.gitignore
+
+# Build output (you'll rebuild inside container)
+build
+
+# Docker-related
+Dockerfile
+.dockerignore

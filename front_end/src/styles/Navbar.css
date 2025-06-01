@@ -1,0 +1,148 @@
+.navbar {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  }
+  
+  .navbar-brand {
+    color: #3498db;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-brand:hover {
+    color: #2980b9;
+    transform: scale(1.05);
+  }
+  
+  .navbar-menu {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .nav-link {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+  
+  .nav-link:hover {
+    color: #3498db;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background-color: #3498db;
+    transition: width 0.3s ease;
+  }
+  
+  .nav-link:hover::after {
+    width: 70%;
+  }
+  
+  .guest-mode-btn, .exit-guest-btn, .logout-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    font-family: inherit;
+  }
+  
+  .guest-mode-btn:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+  }
+  
+  .exit-guest-btn {
+    background-color: #e74c3c;
+  }
+  
+  .exit-guest-btn:hover {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+  }
+  
+  .logout-btn {
+    background-color: #e74c3c;
+  }
+  
+  .logout-btn:hover {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+  }
+  
+  .mobile-menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  /* Mobile menu styles */
+  @media (max-width: 768px) {
+    .navbar-menu {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+      gap: 10px;
+      margin-top: 15px;
+      padding: 15px 0;
+      border-top: 1px solid #34495e;
+    }
+  
+    .navbar-menu.active {
+      display: flex;
+    }
+  
+    .nav-link {
+      width: 100%;
+      padding: 12px;
+      text-align: center;
+    }
+  
+    .mobile-menu-toggle {
+      display: block;
+    }
+  
+    .guest-mode-btn, .exit-guest-btn, .logout-btn {
+      width: 100%;
+      padding: 12px;
+      text-align: center;
+    }
+  }

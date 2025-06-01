@@ -1,0 +1,783 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web\\IA\\back_end\\otherServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\landlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\landlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\ilandlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\ilandlordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\proposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\proposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\proposaleditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\proposaleditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\hubs\\signalr hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\hubs\\signalr hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\appdbcontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\appdbcontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\migrations\\20250423230826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\migrations\\20250423230826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\imessageservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\imessageservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\savedpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\savedpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\updatepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\submitproposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\submitproposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\userdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\userdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|d:\\web\\ia\\back_end\\otherservices\\otherservices\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILandlordService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\ILandlordService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\ILandlordService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\ILandlordService.cs",
+              "RelativeToolTip": "otherServices\\Services\\ILandlordService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:20:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proposal.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Proposal.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Proposal.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Proposal.cs",
+              "RelativeToolTip": "otherServices\\Models\\Proposal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:36:38.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProposalEditDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\ProposalEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:00:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProposalDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\ProposalDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\ProposalDto.cs*",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\ProposalDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:52:00.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LandlordService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\LandlordService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\LandlordService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\LandlordService.cs*",
+              "RelativeToolTip": "otherServices\\Services\\LandlordService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:20:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LandlordController.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\LandlordController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\LandlordController.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\LandlordController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\LandlordController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwJcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:19:45.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Program.cs",
+              "RelativeDocumentMoniker": "otherServices\\Program.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Program.cs",
+              "RelativeToolTip": "otherServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:42:44.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:46:24.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalR Hub.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Hubs\\SignalR Hub.cs",
+              "RelativeDocumentMoniker": "otherServices\\Hubs\\SignalR Hub.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Hubs\\SignalR Hub.cs",
+              "RelativeToolTip": "otherServices\\Hubs\\SignalR Hub.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:50:41.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\MessageService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\MessageService.cs",
+              "RelativeToolTip": "otherServices\\Services\\MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:58:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext2.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\AppDbContext2.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\AppDbContext2.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\AppDbContext2.cs",
+              "RelativeToolTip": "otherServices\\Models\\AppDbContext2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:47:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:55:53.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageDTo.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\MessageDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:46:09.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\TenantController.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\TenantController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:05:15.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "otherServices\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "otherServices\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T15:53:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\TenantService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\TenantService.cs",
+              "RelativeToolTip": "otherServices\\Services\\TenantService.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAIwPoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:38:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\appsettings.json",
+              "RelativeDocumentMoniker": "otherServices\\appsettings.json",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\appsettings.json",
+              "RelativeToolTip": "otherServices\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T00:40:59.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITenantService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\ITenantService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\ITenantService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\ITenantService.cs",
+              "RelativeToolTip": "otherServices\\Services\\ITenantService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:47:33.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Post.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Post.cs",
+              "RelativeToolTip": "otherServices\\Models\\Post.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:29:58.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateMessageDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CreateMessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:49:57.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMessageService1.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IMessageService1.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IMessageService1.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IMessageService1.cs",
+              "RelativeToolTip": "otherServices\\Services\\IMessageService1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:58:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\User.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\User.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\User.cs",
+              "RelativeToolTip": "otherServices\\Models\\User.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:51:56.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\KafkaProducerService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "otherServices\\Services\\KafkaProducerService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:50:11.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250423230826_InitialCreate.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "RelativeDocumentMoniker": "otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "RelativeToolTip": "otherServices\\Migrations\\20250423230826_InitialCreate.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:08:26.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\ICommentService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\ICommentService.cs",
+              "RelativeToolTip": "otherServices\\Services\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:46:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\CommentService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\CommentService.cs",
+              "RelativeToolTip": "otherServices\\Services\\CommentService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:39:57.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:30.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:44:58.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SavedPostDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\SavedPostDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:06:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CommentDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CommentDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CommentDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:40.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdatePostDTO.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\UpdatePostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:46:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PostDTo.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\PostDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\PostDTo.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\PostDTo.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\PostDTo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:41:35.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreatePostDTO.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\CreatePostDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:20:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Comment.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Comment.cs",
+              "RelativeToolTip": "otherServices\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:45:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\Message.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\Message.cs",
+              "RelativeToolTip": "otherServices\\Models\\Message.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:45:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserDataDTO.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\UserDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:40:24.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:37:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IAuthService.cs",
+              "RelativeToolTip": "otherServices\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:39:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IJwtService.cs",
+              "RelativeToolTip": "otherServices\\Services\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:38:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\JwtService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\JwtService.cs",
+              "RelativeToolTip": "otherServices\\Services\\JwtService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:37:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SubmitProposalDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\SubmitProposalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:36:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\IAdminService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\IAdminService.cs",
+              "RelativeToolTip": "otherServices\\Services\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:42:19.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateCommentDto.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\UpdateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T01:13:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "otherServices\\Models\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T00:28:01.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\AuthService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\AuthService.cs",
+              "RelativeToolTip": "otherServices\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:41:49.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:36:35.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Services\\AdminService.cs",
+              "ToolTip": "D:\\web\\IA\\back_end\\otherServices\\otherServices\\Services\\AdminService.cs",
+              "RelativeToolTip": "otherServices\\Services\\AdminService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:55:46.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
