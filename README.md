@@ -23,13 +23,13 @@ put photo of the Arch
 #### 1. Main Service
   - The brain of the system that handles all direct user actions (signups, property listings, rentals) and saves them to the database.
 #### 2. User Registered
-![System Architecture photo](images/architecture-diagram.png)
+![System Architecture photo](images/UserRegistered.png)
 - Waits for announcements over the loudspeaker (Kafka)
 - When it hears "New Guest Arrived" (UserRegistered event):
 - Immediately sends a welcome email
 - It keeps records in its own database
 #### 3.  Message Analysis Service
-![System Architecture photo](images/architecture-diagram.png)
+![System Architecture photo](images/msgExchange.png)
 - Listens to all guest conversations (MessageExchanged events)
 - It keeps records in its own database
 
