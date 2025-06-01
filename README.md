@@ -22,7 +22,7 @@ put photo of the Arch
 ### **Application Services**
 #### 1. Main Service
   - The brain of the system that handles all direct user actions (signups, property listings, rentals) and saves them to the database.
-#### 2. User Registered
+#### 2. Email Service
 ![System Architecture photo](images/UserRegistered.png)
 - Waits for announcements over the loudspeaker (Kafka)
 - When it hears "New Guest Arrived" (UserRegistered event):
@@ -33,4 +33,10 @@ put photo of the Arch
 - Listens to all guest conversations (MessageExchanged events)
 - It keeps records in its own database
 
-
+## **How to run !!!**
+### **you need only to install docker and write that command**
+```
+docker compose up --build
+```
+## **Link Video**
+![click](png)
