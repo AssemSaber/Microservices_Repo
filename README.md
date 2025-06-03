@@ -17,7 +17,7 @@
 
 ## The System Architecture in microservices
 ![System Architecture photo](images/architecture.png)
-### **Application Services**
+## **Application Services**
 #### 1. Main Service
   - The brain of the system that handles all direct user actions (signups, property listings, rentals) and saves them to the database.
 #### 2. Email Service
