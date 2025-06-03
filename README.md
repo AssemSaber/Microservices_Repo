@@ -15,10 +15,8 @@
 - Applies for rentals & uploads required documents.
 - Saves favorite properties.
 
-## The System Architecture with Kafka Integration
-```
-put photo of the Arch
-```
+## The System Architecture in microservices
+![System Architecture photo](images/architecture.png)
 ### **Application Services**
 #### 1. Main Service
   - The brain of the system that handles all direct user actions (signups, property listings, rentals) and saves them to the database.
