@@ -37,4 +37,4 @@
 docker compose up --build
 ```
 ## **Link Video**
-![click](png)
+[Watch the demo video on LinkedIn](https://www.linkedin.com/posts/mohammed-asem_project-highlight-property-rental-management-activity-7336091166846652416-Y-Pa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqEjhEBzV00fsPPZ5V-OKMT-2tEqgUnrp0)
